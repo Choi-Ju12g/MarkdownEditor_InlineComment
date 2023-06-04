@@ -1,0 +1,22 @@
+/node_modules/*
+/build/*
+/processor/*
+/types/*
+/resource/*
+/script/*
+
+# 오류 해결 -> ESLint: Parsing error: "parserOptions.project" has been set for @typescript-eslint/parser.
+.eslintrc.js
+
+# 확장자
+*.scss
+*.ejs
+*.json
+*.xml
+*.woff
+*.map
+*.png
+*.jpg
+*.ico
+*.html
+*.txt

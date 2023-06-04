@@ -1,0 +1,6 @@
+# Ignore artifacts:
+build
+node_modules
+processor
+storybook-static
+*.md
